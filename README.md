@@ -1,2 +1,3 @@
 # spammer
-Use this code in VSC and run it to spam 1 msg continues to trouble ur friends
+Run the test.py file
+the file consists the code for spammer
